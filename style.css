@@ -21,7 +21,7 @@ nav {
 }
 
 nav a {
-  color: orange;
+  color: yellow;
   margin: 0 1rem;
   text-decoration: none;
 }
@@ -38,5 +38,5 @@ footer {
   text-align: center;
   padding: 1rem;
   background: #333;
-  color: white;
+  color: yellow,green;
 }
