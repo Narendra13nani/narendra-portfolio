@@ -8,8 +8,8 @@ body {
 }
 
 header {
-  background: #222;
-  color: green;
+  background: #333;
+  color: white;
   padding: 2rem;
   text-align: center;
 }
@@ -21,7 +21,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: orange;
   margin: 0 1rem;
   text-decoration: none;
 }
@@ -37,6 +37,6 @@ section {
 footer {
   text-align: center;
   padding: 1rem;
-  background: #222;
+  background: #333;
   color: white;
 }
